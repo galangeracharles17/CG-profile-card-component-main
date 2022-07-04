@@ -96,7 +96,7 @@ hr {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin: 18px 0;
+    margin: 27px 0;
 }
 
 .profile-card__followers p:nth-of-type(1) {
